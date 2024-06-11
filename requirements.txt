@@ -3,5 +3,5 @@ keyboard      # For capturing keyboard events
 pyautogui     # For programmatically controlling the mouse and keyboard
 PyQt5         # For creating the GUI
 
-# To install these dependencies, run:
+# To install these dependencies, to run:
 # pip install -r requirements.txt
