@@ -54,4 +54,8 @@ Click the **Start** button to begin typing your messages automatically. Use the 
 - **Drag messages order**: Select the message you'd like to change the order of and drag it to the chosen place.
 - **About**: Find more information about the application by clicking the **Help** menu and selecting **About**.
 
+## Screenshot
+![image](https://github.com/KristjanPikhof/RSPS-Auto-Typer-bot/assets/60576985/d40b323d-86ca-4fb2-ac5e-dce862f432c9)
+
+
 **Please use this tool ethically and responsibly.**
